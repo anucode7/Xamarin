@@ -42,7 +42,7 @@ namespace GraceApp
                  
                     new Label
                     {
-                        Text = "An App To Connect",
+                        Text = "An App To Connect!",
                         FontSize = 26,
                         TextColor = Color.Black
                     },
